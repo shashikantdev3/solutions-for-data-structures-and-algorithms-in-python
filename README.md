@@ -7,13 +7,13 @@ Welcome to my repository of solutions for the book "Data Structures and Algorith
 
 ## Table of Contents
 
-- [Chapter](#Chapter)
+- [Chapter](#Chapters)
 - [About the Book](#about-the-book)
 - [Structure of the Repository](#structure-of-the-repository)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Chaspters
+## Chapters
 
 |Chapter|Contents|Solution|
 |---|---|---|
