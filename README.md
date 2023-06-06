@@ -1,9 +1,9 @@
 # solutions-for-data-structures-and-algorithms-in-python
-Solutions for exercises from the book Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia
+My Solutions for exercises from the book Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia
 
 ![image](https://github.com/shashikantdev3/solutions-for-data-structures-and-algorithms-in-python/assets/52612360/da45bdfa-6b30-428d-b860-03a3425b4aad)
 
-Welcome to my repository of solutions for the book "Data Structures and Algorithms in Python" by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia. This repository contains my solutions to the exercises provided in the book, and it aims to serve as a helpful resource for anyone studying or interested in algorithms and data structures using Python.
+Welcome to my repository of solutions for the book "Data Structures and Algorithms in Python" by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia. This repository contains my solutions to the exercises provided in the book, and it aims to serve as a helpful resource for anyone studying or interested in Basic Python and algorithms & data structures using Python.
 
 ## Table of Contents
 
