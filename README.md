@@ -7,10 +7,26 @@ Welcome to my repository of solutions for the book "Data Structures and Algorith
 
 ## Table of Contents
 
+- [Chapter](#Chapter)
 - [About the Book](#about-the-book)
 - [Structure of the Repository](#structure-of-the-repository)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Chaspters
+
+|Chapter|Contents|Exercise|
+|---|---|---|
+|Chapter 01|[Notebook]()|[Notebook]()|
+|Chapter 02|[Notebook]()|[Notebook]()|
+|Chapter 03|[Notebook]()|[Notebook]()|
+|Chapter 04|[Notebook]()|[Notebook]()|
+|Chapter 05|[Notebook]()|[Notebook]()|
+|Chapter 06|[Notebook]()|[Notebook]()|
+|Chapter 07|[Notebook]()|[Notebook]()|
+|Chapter 08|[Notebook]()|[Notebook]()|
+|Chapter 09|[Notebook]()|[Notebook]()|
+
 
 ## About the Book
 
