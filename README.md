@@ -7,10 +7,26 @@ Welcome to my repository of solutions for the book "Data Structures and Algorith
 
 ## Table of Contents
 
+- [Chapter](#Chapter)
 - [About the Book](#about-the-book)
 - [Structure of the Repository](#structure-of-the-repository)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Chaspters
+
+|Chapter|Contents|Exercise|
+|---|---|---|
+|Chapter 01|[Notebook]()|[Notebook](https://github.com/shashikantdev3/solutions-for-data-structures-and-algorithms-in-python/blob/main/Chapter-1%20Python%20Primer/Chapter-1_Python_Primer.ipynb)|
+|Chapter 02|[Notebook]()|[Notebook]()|
+|Chapter 03|[Notebook]()|[Notebook]()|
+|Chapter 04|[Notebook]()|[Notebook]()|
+|Chapter 05|[Notebook]()|[Notebook]()|
+|Chapter 06|[Notebook]()|[Notebook]()|
+|Chapter 07|[Notebook]()|[Notebook]()|
+|Chapter 08|[Notebook]()|[Notebook]()|
+|Chapter 09|[Notebook]()|[Notebook]()|
+
 
 ## About the Book
 
